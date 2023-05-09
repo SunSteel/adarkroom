@@ -55,7 +55,7 @@ Events.Encounters = [
 				damage: 2,
 				hit: 0.8,
 				attackDelay: 2,
-				health: 6,
+				health: 8,
 				loot: {
 					'cloth': {
 						min: 1,
